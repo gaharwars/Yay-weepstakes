@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Get points for taking surveys, watching videos, playing games, completing offers, and other fun activities",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Yay-weepstakes",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
